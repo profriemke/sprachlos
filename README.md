@@ -21,8 +21,6 @@ Running `train_classifier.py` will train the model using the newly created datas
 **Third Step:**
 Now, the model can be used in SPRACHLOS versions 1 and 2. Running `run_Normal.py` will only run the model. SPRACHLOS 1 and 2 integrates the model into an interface and a mini-game.
 
-You can also use SPRACHLOS 1 and 2 without executing steps one and two as a model is already included. However, if you want to train your own model with new parameters or new data, you need to follow steps 1 and 2.
-
 ## License
 Anyone can use and modify the model as they wish.
 
