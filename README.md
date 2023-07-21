@@ -6,8 +6,9 @@ Sprachlos is a Python-based sign language recognition app. Training data is incl
 
 ## Required Packages
 To use Sprachlos, you must first install the necessary packages. You can do this by executing the following command in your command line:
-```bash
+```
 pip install pickle cv2 mediapipe numpy tkinter PIL threading random time sklearn os
+```
 
 ## Steps to Use
 
