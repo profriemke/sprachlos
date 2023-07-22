@@ -1,5 +1,5 @@
 # Sprachlos
-!(https://github.com/profriemke/sprachlos/edit/main/graphics/sprachlos.png)
+![Sprachlos Image](https://github.com/profriemke/sprachlos/blob/main/graphics/sprachlos.png "A sprachlos graphic")
 ## Description
 
 Sprachlos is a Python-based sign language recognition app. Training data is included and can be expanded to improve accuracy. The data should be placed in the 'data' folder under the respective letters.
